@@ -12,8 +12,8 @@
 
 ```
 api-laliga  
-  data  
-    equipos       # Datos de equipos (nombre, estadio, etc.).  
-    jugadores     # Datos de jugadores (nombre, posición, equipo).  
-    partidos      # Partidos (local, visitante, fecha, resultado).   
+  /data  
+    /equipos       # Datos de equipos (nombre, estadio, etc.).  
+    /jugadores     # Datos de jugadores (nombre, posición, equipo).  
+    /partidos      # Partidos (local, visitante, fecha, resultado).   
 ```
