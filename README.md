@@ -11,10 +11,10 @@
 ## Estructura del proyecto
 
 ```
- /api-laliga/  
-├── data/  
-│   ├── equipos.json       # Datos de equipos (nombre, estadio, etc.).  
-│   ├── jugadores.json     # Datos de jugadores (nombre, posición, equipo).  
-│   └── partidos.json      # Partidos (local, visitante, fecha, resultado).  
-├── server.js              # Servidor principal (configuración de endpoints).  
+api-laliga  
+  data  
+    equipos      # Datos de equipos (nombre, estadio, etc.).  
+    jugadores     # Datos de jugadores (nombre, posición, equipo).  
+    partidos      # Partidos (local, visitante, fecha, resultado).  
+    server              # Servidor principal (configuración de endpoints).  
 ```
