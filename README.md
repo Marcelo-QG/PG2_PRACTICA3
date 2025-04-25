@@ -8,7 +8,7 @@
 
 
 
-## ESTRUCTURA DEL PROYECTO
+## Estructura del proyecto
 
 ```
  /api-laliga/  
