@@ -6,19 +6,15 @@
 
 ## Tecnologías utilizadas
 
-- Backend: Node.js + Express.
 
-- Datos: JSON (simulando una base de datos).
-
-- Herramientas: Postman (para pruebas), Git (control de versiones).
 
 ## ESTRUCTURA DEL PROYECTO
 
-´´´
+```
  /api-laliga/  
 ├── data/  
 │   ├── equipos.json       # Datos de equipos (nombre, estadio, etc.).  
 │   ├── jugadores.json     # Datos de jugadores (nombre, posición, equipo).  
 │   └── partidos.json      # Partidos (local, visitante, fecha, resultado).  
 ├── server.js              # Servidor principal (configuración de endpoints).  
-´´´
+```
